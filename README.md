@@ -1,6 +1,5 @@
----1 ETAPA: Proposta de Tema de PDS Web ---
-    DATA : 7 DE NOVEMBRO/ 2014
---------------------------------------------------------------------------------------------------
+                        1 ETAPA: PROPOSTA DE TEMA PDS WEB |  DATA : 7 DE NOVEMBRO/ 2014
+------------------------------------------------------------------------------------------------------------------------------
 A proposta deve ser concisa, mas devem refletir claramente o sistema proposto pela equipe e qual o problema real que tal sistema visa resolver.
 
 *Seções da Proposta (máximo de duas laudas)
@@ -18,3 +17,4 @@ Apresentação dos objetivos que irão nortear o desenvolvimento do sistema prop
 
 *Funcionalidades Principais do Sistema Proposto
 Lista das funcionalidades (funções que estarão disponíveis para os usuários do sistema proposto) principais do sistema proposto. Se houverem diferentes tipos de usuário (papéis diferentes), as funcionalidades devem ser agrupadas por papel.
+--------------------------------------------------------------------------------------------------------------------------
