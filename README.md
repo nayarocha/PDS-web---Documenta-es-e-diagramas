@@ -17,4 +17,4 @@ Apresentação dos objetivos que irão nortear o desenvolvimento do sistema prop
 
 *Funcionalidades Principais do Sistema Proposto
 Lista das funcionalidades (funções que estarão disponíveis para os usuários do sistema proposto) principais do sistema proposto. Se houverem diferentes tipos de usuário (papéis diferentes), as funcionalidades devem ser agrupadas por papel.
---------------------------------------------------------------------------------------------------------------------------
+
